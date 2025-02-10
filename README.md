@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/shira-churi-0125b3235/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/mail-light.svg)](mailto:shirachuri@gmail.com#gh-light-mode-only)
-[![website](./img/mail-dark.svg)](mailto:shirachuri@gmail.com#gh-dark-mode-only)
+[![website](./img/mail_dark.svg)](mailto:shirachuri@gmail.com#gh-dark-mode-only)
 
 ---
 ### 💻 Languages and Tools:
